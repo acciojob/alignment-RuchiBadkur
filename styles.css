@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+table{
+	border: 1px solid black;
+	spacing: 1px;
+	width: 100%;
+}
+tr{
+/* 	border: 1px solid black; */
+}
+td{
+	padding: 1px;
+}
+
+#t11{
+	text-align: start;
+}
+#t12{
+	text-align: center;
+}
+#t13{
+	text-align: end;
+}
+
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
